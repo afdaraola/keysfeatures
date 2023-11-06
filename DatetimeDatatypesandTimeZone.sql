@@ -1,4 +1,4 @@
-/*
+
 Datetime and Interval Datatypes
 The datetime datatypes are DATE, TIMESTAMP, TIMESTAMP WITH TIME ZONE, and TIMESTAMP WITH LOCAL TIME ZONE. Values of datetime datatypes are sometimes called datetimes.
 
@@ -147,5 +147,5 @@ Defines the default timestamp format to use with the TO_CHAR and TO_TIMESTAMP fu
 NLS_TIMESTAMP_TZ_FORMAT
 
 Defines the default timestamp with time zone format to use with the TO_CHAR and TO_TIMESTAMP_TZ functions
-*/
+
 
